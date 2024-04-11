@@ -1,0 +1,41 @@
+<html>
+    <body>
+        <table style="border: 3px solid rgb(0, 255, 106)">
+            <tr>
+                <td>ID</td>
+                <td>Nome</td>
+                <td>email</td>
+                <td>peso</td>
+                <td>sexo</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>Guilheme</td>
+                <td>Guizin.gameplays@gmail.com</td>
+                <td>9999999999999kg</td>
+                <td>gatinho</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>Renan</td>
+                <td>renan.colíder@gmail.com</td>
+                <td>0,5kg</td>
+                <td>rei delas</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>Vidal</td>
+                <td>gost.oso@gmail.com</td>
+                <td>75kg</td>
+                <td>pegador</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>Pedro</td>
+                <td>Pedro.Lindo.maravilhoso@gmail.com</td>
+                <td>71kg</td>
+                <td>30 vezes por semana</td>
+            </tr>
+        </table>
+    </body>
+</html>
